@@ -1,0 +1,9 @@
+Feature,Count,Mean,Std Dev,Min,25th Pct,Median ,75th Pct,Max
+Time in Hospital,101766,4.395986872,2.985107767,1,2,4,6,14
+Num Lab Procedures,,,,,,,,
+Num Procedures,,,,,,,,
+Num Medications,,,,,,,,
+Number Diagnoses,,,,,,,,
+Outpatient Visits,,,,,,,,
+Emergency Visits,,,,,,,,
+Inpatient Visits,,,,,,,,
